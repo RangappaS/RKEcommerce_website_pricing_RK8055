@@ -1,0 +1,76 @@
+
+.mainnavbar{
+    background-color:turquoise;
+    color: white;
+}
+.create{
+    background-color:rgb(224, 104, 64);
+    padding: 15px;
+    color: white;
+}
+#navbar {
+    
+    background:  turquoise;
+
+    box-shadow: none;
+    background-position-x: -39px;
+}
+.navbar {
+    background: #000;
+}
+.navbar {
+    margin-bottom: 0;
+    z-index: 11;
+    border: 0;
+}
+.navbar, .navbar-custom-light {
+    box-shadow: 0 2px 4px rgba(18,18,18,.24);
+}
+.navbar-inverse {
+    background-color: #37474f;
+    border-color: #222c31;
+}
+
+
+#login{
+    background-color: rgb(15, 2, 2);
+}
+#btn{
+    position: relative;
+    display: inline;
+}
+#save-more-text{
+    color: rgb(31, 147, 108);
+}
+
+.launch{
+    background-color: turquoise;
+    height: 210px;
+}
+
+.fixed-whatsapp-btn{
+    position: fixed;
+    bottom: 50px; 
+    right: 50px;
+}
+
+#whatsapp{
+    filter: drop-shadow(0 5px 4px rgb(0 0 0 / 26%));
+    height:50px; 
+    width:50px;
+    background-color: #44ff98;
+}
+
+.plan-duration {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #0dbc47;
+  }
+  
+  .plan-duration-selected {
+    background-color: green;
+    color: white;
+  }
+  #full-contacts-bar{
+    background-color: turquoise;
+  }
